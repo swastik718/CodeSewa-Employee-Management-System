@@ -72,17 +72,13 @@ The main motive of to build this application to manage the employee, teams, lead
 ## Flow Chart
 ![Flow Chart](./screenshots/Flow.png "Flow Chart")
 
-## Video
-[![Video](./screenshots/thumbnail.png)](https://youtu.be/jcdBcxDJ2x8)
+
 
 
 
 ## Screenshots
 
 ### Login
-![](/screenshots/1.png)
-![](/screenshots/2.png)
-![](/screenshots/3.png)
 
 
 ### Admin
